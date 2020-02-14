@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSamePicture", "FindSamePicture\FindSamePicture.csproj", "{0B6DEE5C-A895-47D0-B38F-F647A60F7D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6DEE5C-A895-47D0-B38F-F647A60F7D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6DEE5C-A895-47D0-B38F-F647A60F7D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6DEE5C-A895-47D0-B38F-F647A60F7D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6DEE5C-A895-47D0-B38F-F647A60F7D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CB824D-C3BF-4B02-8171-B4864E506800}
+	EndGlobalSection
+EndGlobal
